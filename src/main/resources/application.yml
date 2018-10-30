@@ -1,0 +1,5 @@
+filePath: D://tempPdf.pdf
+server:
+  servlet:
+    context-path: "/pdfDemo"
+  port: 8081
